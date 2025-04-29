@@ -47,8 +47,11 @@ Here's a preview of the student data structure:
     "Courses": ("Math", "Science")
   }
 }
-## 🧑‍💻 Author
-Kartik — aspiring Data Analyst and Pythonista in the making 💻
+```
+---
 
-Learning one project at a time.
-Connect with me on [LinkedIn]((https://www.linkedin.com/in/kartik-p-81b33231b)
+### 🧑‍💻 Author
+
+**Kartik** — aspiring Data Analyst and Pythonista in the making 💻  
+> Learning one project at a time.  
+> Connect with me on [LinkedIn](https://www.linkedin.com/in/kartik-p-81b33231b)
